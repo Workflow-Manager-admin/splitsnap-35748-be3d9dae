@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom primary/secondary/accent (SplitSnap) base colors */
+:root {
+  --split-primary: #2563eb;
+  --split-secondary: #f1f5f9;
+  --split-accent: #fbbf24;
+}

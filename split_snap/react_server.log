@@ -1,0 +1,1614 @@
+
+> react-kavia@0.1.0 start
+> react-scripts start
+
+(node:472) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:472) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled successfully!
+
+You can now view react-kavia in the browser.
+
+  Local:            http://localhost:3000
+  On Your Network:  http://172.17.0.2:3000
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+webpack compiled successfully
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+WARNING in [eslint] 
+src/App.js
+  Line 1:17:  'useEffect' is defined but never used  no-unused-vars
+
+ERROR in ./src/App.js 6:0-84
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 7:0-65
+Module not found: Error: Can't resolve './components/AuthContext' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 8:0-41
+Module not found: Error: Can't resolve './components/Navbar' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 9:0-43
+Module not found: Error: Can't resolve './components/Sidebar' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 10:0-42
+Module not found: Error: Can't resolve './pages/Dashboard' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 11:0-50
+Module not found: Error: Can't resolve './pages/ReceiptUpload' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 12:0-52
+Module not found: Error: Can't resolve './pages/ItemAssignment' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 13:0-40
+Module not found: Error: Can't resolve './pages/SettleUp' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 14:0-38
+Module not found: Error: Can't resolve './pages/History' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 15:0-52
+Module not found: Error: Can't resolve './pages/ReceiptDetails' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 16:0-34
+Module not found: Error: Can't resolve './pages/Login' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 17:0-40
+Module not found: Error: Can't resolve './pages/Register' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 18:0-41
+Module not found: Error: Can't resolve './components/Loader' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 20:0-31
+Module not found: Error: Can't resolve './tailwind-output.css' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+webpack compiled with 14 errors and 1 warning
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+WARNING in [eslint] 
+src/App.js
+  Line 1:17:  'useEffect' is defined but never used  no-unused-vars
+
+ERROR in ./src/App.js 6:0-84
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 7:0-65
+Module not found: Error: Can't resolve './components/AuthContext' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 8:0-41
+Module not found: Error: Can't resolve './components/Navbar' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 9:0-43
+Module not found: Error: Can't resolve './components/Sidebar' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 10:0-42
+Module not found: Error: Can't resolve './pages/Dashboard' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 11:0-50
+Module not found: Error: Can't resolve './pages/ReceiptUpload' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 12:0-52
+Module not found: Error: Can't resolve './pages/ItemAssignment' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 13:0-40
+Module not found: Error: Can't resolve './pages/SettleUp' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 14:0-38
+Module not found: Error: Can't resolve './pages/History' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 15:0-52
+Module not found: Error: Can't resolve './pages/ReceiptDetails' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 16:0-34
+Module not found: Error: Can't resolve './pages/Login' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 17:0-40
+Module not found: Error: Can't resolve './pages/Register' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 18:0-41
+Module not found: Error: Can't resolve './components/Loader' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 20:0-31
+Module not found: Error: Can't resolve './tailwind-output.css' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+webpack compiled with 14 errors and 1 warning
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+WARNING in [eslint] 
+src/App.js
+  Line 1:17:  'useEffect' is defined but never used  no-unused-vars
+
+ERROR in ./src/App.js 6:0-84
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 7:0-65
+Module not found: Error: Can't resolve './components/AuthContext' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 8:0-41
+Module not found: Error: Can't resolve './components/Navbar' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 9:0-43
+Module not found: Error: Can't resolve './components/Sidebar' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 10:0-42
+Module not found: Error: Can't resolve './pages/Dashboard' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 11:0-50
+Module not found: Error: Can't resolve './pages/ReceiptUpload' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 12:0-52
+Module not found: Error: Can't resolve './pages/ItemAssignment' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 13:0-40
+Module not found: Error: Can't resolve './pages/SettleUp' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 14:0-38
+Module not found: Error: Can't resolve './pages/History' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 15:0-52
+Module not found: Error: Can't resolve './pages/ReceiptDetails' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 16:0-34
+Module not found: Error: Can't resolve './pages/Login' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 17:0-40
+Module not found: Error: Can't resolve './pages/Register' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 18:0-41
+Module not found: Error: Can't resolve './components/Loader' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+webpack compiled with 13 errors and 1 warning
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+WARNING in [eslint] 
+src/App.js
+  Line 1:17:  'useEffect' is defined but never used  no-unused-vars
+
+ERROR in ./src/App.js 6:0-84
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 8:0-41
+Module not found: Error: Can't resolve './components/Navbar' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 9:0-43
+Module not found: Error: Can't resolve './components/Sidebar' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 10:0-42
+Module not found: Error: Can't resolve './pages/Dashboard' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 11:0-50
+Module not found: Error: Can't resolve './pages/ReceiptUpload' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 12:0-52
+Module not found: Error: Can't resolve './pages/ItemAssignment' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 13:0-40
+Module not found: Error: Can't resolve './pages/SettleUp' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 14:0-38
+Module not found: Error: Can't resolve './pages/History' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 15:0-52
+Module not found: Error: Can't resolve './pages/ReceiptDetails' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 16:0-34
+Module not found: Error: Can't resolve './pages/Login' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 17:0-40
+Module not found: Error: Can't resolve './pages/Register' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 18:0-41
+Module not found: Error: Can't resolve './components/Loader' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/services/supabase.js 3:0-53
+Module not found: Error: Can't resolve '@supabase/supabase-js' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/services'
+
+webpack compiled with 13 errors and 1 warning
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+WARNING in [eslint] 
+src/App.js
+  Line 1:17:  'useEffect' is defined but never used  no-unused-vars
+
+ERROR in ./src/App.js 6:0-84
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 9:0-43
+Module not found: Error: Can't resolve './components/Sidebar' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 10:0-42
+Module not found: Error: Can't resolve './pages/Dashboard' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 11:0-50
+Module not found: Error: Can't resolve './pages/ReceiptUpload' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 12:0-52
+Module not found: Error: Can't resolve './pages/ItemAssignment' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 13:0-40
+Module not found: Error: Can't resolve './pages/SettleUp' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 14:0-38
+Module not found: Error: Can't resolve './pages/History' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 15:0-52
+Module not found: Error: Can't resolve './pages/ReceiptDetails' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 16:0-34
+Module not found: Error: Can't resolve './pages/Login' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 17:0-40
+Module not found: Error: Can't resolve './pages/Register' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 18:0-41
+Module not found: Error: Can't resolve './components/Loader' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/services/supabase.js 3:0-53
+Module not found: Error: Can't resolve '@supabase/supabase-js' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/services'
+
+webpack compiled with 12 errors and 1 warning
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+WARNING in [eslint] 
+src/App.js
+  Line 1:17:  'useEffect' is defined but never used  no-unused-vars
+
+ERROR in ./src/App.js 6:0-84
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 10:0-42
+Module not found: Error: Can't resolve './pages/Dashboard' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 11:0-50
+Module not found: Error: Can't resolve './pages/ReceiptUpload' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 12:0-52
+Module not found: Error: Can't resolve './pages/ItemAssignment' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 13:0-40
+Module not found: Error: Can't resolve './pages/SettleUp' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 14:0-38
+Module not found: Error: Can't resolve './pages/History' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 15:0-52
+Module not found: Error: Can't resolve './pages/ReceiptDetails' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 16:0-34
+Module not found: Error: Can't resolve './pages/Login' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 17:0-40
+Module not found: Error: Can't resolve './pages/Register' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 18:0-41
+Module not found: Error: Can't resolve './components/Loader' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/components/Sidebar.js 6:0-56
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/components'
+
+ERROR in ./src/services/supabase.js 3:0-53
+Module not found: Error: Can't resolve '@supabase/supabase-js' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/services'
+
+webpack compiled with 12 errors and 1 warning
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+WARNING in [eslint] 
+src/App.js
+  Line 1:17:  'useEffect' is defined but never used  no-unused-vars
+
+ERROR in ./src/App.js 6:0-84
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 10:0-42
+Module not found: Error: Can't resolve './pages/Dashboard' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 11:0-50
+Module not found: Error: Can't resolve './pages/ReceiptUpload' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 12:0-52
+Module not found: Error: Can't resolve './pages/ItemAssignment' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 13:0-40
+Module not found: Error: Can't resolve './pages/SettleUp' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 14:0-38
+Module not found: Error: Can't resolve './pages/History' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 15:0-52
+Module not found: Error: Can't resolve './pages/ReceiptDetails' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 16:0-34
+Module not found: Error: Can't resolve './pages/Login' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 17:0-40
+Module not found: Error: Can't resolve './pages/Register' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/components/Sidebar.js 6:0-56
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/components'
+
+ERROR in ./src/services/supabase.js 3:0-53
+Module not found: Error: Can't resolve '@supabase/supabase-js' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/services'
+
+webpack compiled with 11 errors and 1 warning
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+WARNING in [eslint] 
+src/App.js
+  Line 1:17:  'useEffect' is defined but never used  no-unused-vars
+
+ERROR in ./src/App.js 6:0-84
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 10:0-42
+Module not found: Error: Can't resolve './pages/Dashboard' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 11:0-50
+Module not found: Error: Can't resolve './pages/ReceiptUpload' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 12:0-52
+Module not found: Error: Can't resolve './pages/ItemAssignment' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 13:0-40
+Module not found: Error: Can't resolve './pages/SettleUp' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 14:0-38
+Module not found: Error: Can't resolve './pages/History' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 15:0-52
+Module not found: Error: Can't resolve './pages/ReceiptDetails' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 17:0-40
+Module not found: Error: Can't resolve './pages/Register' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/components/Sidebar.js 6:0-56
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/components'
+
+ERROR in ./src/pages/Login.js 6:0-53
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/pages'
+
+ERROR in ./src/services/supabase.js 3:0-53
+Module not found: Error: Can't resolve '@supabase/supabase-js' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/services'
+
+webpack compiled with 11 errors and 1 warning
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+WARNING in [eslint] 
+src/App.js
+  Line 1:17:  'useEffect' is defined but never used  no-unused-vars
+
+ERROR in ./src/App.js 6:0-84
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 10:0-42
+Module not found: Error: Can't resolve './pages/Dashboard' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 11:0-50
+Module not found: Error: Can't resolve './pages/ReceiptUpload' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 12:0-52
+Module not found: Error: Can't resolve './pages/ItemAssignment' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 13:0-40
+Module not found: Error: Can't resolve './pages/SettleUp' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 14:0-38
+Module not found: Error: Can't resolve './pages/History' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 15:0-52
+Module not found: Error: Can't resolve './pages/ReceiptDetails' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/components/Sidebar.js 6:0-56
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/components'
+
+ERROR in ./src/pages/Login.js 6:0-53
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/pages'
+
+ERROR in ./src/pages/Register.js 6:0-53
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/pages'
+
+ERROR in ./src/services/supabase.js 3:0-53
+Module not found: Error: Can't resolve '@supabase/supabase-js' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/services'
+
+webpack compiled with 11 errors and 1 warning
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+WARNING in [eslint] 
+src/App.js
+  Line 1:17:  'useEffect' is defined but never used  no-unused-vars
+
+src/pages/Dashboard.js
+  Line 14:21:  'error' is assigned a value but never used  no-unused-vars
+
+ERROR in ./src/App.js 6:0-84
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 11:0-50
+Module not found: Error: Can't resolve './pages/ReceiptUpload' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 12:0-52
+Module not found: Error: Can't resolve './pages/ItemAssignment' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 13:0-40
+Module not found: Error: Can't resolve './pages/SettleUp' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 14:0-38
+Module not found: Error: Can't resolve './pages/History' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 15:0-52
+Module not found: Error: Can't resolve './pages/ReceiptDetails' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/components/Sidebar.js 6:0-56
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/components'
+
+ERROR in ./src/pages/Dashboard.js 7:0-47
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/pages'
+
+ERROR in ./src/pages/Login.js 6:0-53
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/pages'
+
+ERROR in ./src/pages/Register.js 6:0-53
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/pages'
+
+ERROR in ./src/services/supabase.js 3:0-53
+Module not found: Error: Can't resolve '@supabase/supabase-js' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/services'
+
+webpack compiled with 11 errors and 1 warning
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+WARNING in [eslint] 
+src/App.js
+  Line 1:17:  'useEffect' is defined but never used  no-unused-vars
+
+src/pages/Dashboard.js
+  Line 14:21:  'error' is assigned a value but never used  no-unused-vars
+
+src/pages/ReceiptUpload.js
+  Line 33:15:  'data' is assigned a value but never used  no-unused-vars
+
+ERROR in ./src/App.js 6:0-84
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 12:0-52
+Module not found: Error: Can't resolve './pages/ItemAssignment' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 13:0-40
+Module not found: Error: Can't resolve './pages/SettleUp' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 14:0-38
+Module not found: Error: Can't resolve './pages/History' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 15:0-52
+Module not found: Error: Can't resolve './pages/ReceiptDetails' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/components/Sidebar.js 6:0-56
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/components'
+
+ERROR in ./src/pages/Dashboard.js 7:0-47
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/pages'
+
+ERROR in ./src/pages/Login.js 6:0-53
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/pages'
+
+ERROR in ./src/pages/ReceiptUpload.js 8:0-47
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/pages'
+
+ERROR in ./src/pages/Register.js 6:0-53
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/pages'
+
+ERROR in ./src/services/supabase.js 3:0-53
+Module not found: Error: Can't resolve '@supabase/supabase-js' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/services'
+
+webpack compiled with 11 errors and 1 warning
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+WARNING in [eslint] 
+src/App.js
+  Line 1:17:  'useEffect' is defined but never used  no-unused-vars
+
+src/pages/Dashboard.js
+  Line 14:21:  'error' is assigned a value but never used  no-unused-vars
+
+src/pages/ItemAssignment.js
+  Line 23:27:  'error' is assigned a value but never used  no-unused-vars
+
+src/pages/ReceiptUpload.js
+  Line 33:15:  'data' is assigned a value but never used  no-unused-vars
+
+ERROR in ./src/App.js 6:0-84
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 13:0-40
+Module not found: Error: Can't resolve './pages/SettleUp' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 14:0-38
+Module not found: Error: Can't resolve './pages/History' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 15:0-52
+Module not found: Error: Can't resolve './pages/ReceiptDetails' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/components/Sidebar.js 6:0-56
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/components'
+
+ERROR in ./src/pages/Dashboard.js 7:0-47
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/pages'
+
+ERROR in ./src/pages/ItemAssignment.js 6:0-58
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/pages'
+
+ERROR in ./src/pages/Login.js 6:0-53
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/pages'
+
+ERROR in ./src/pages/ReceiptUpload.js 8:0-47
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/pages'
+
+ERROR in ./src/pages/Register.js 6:0-53
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/pages'
+
+ERROR in ./src/services/supabase.js 3:0-53
+Module not found: Error: Can't resolve '@supabase/supabase-js' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/services'
+
+webpack compiled with 11 errors and 1 warning
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+WARNING in [eslint] 
+src/App.js
+  Line 1:17:  'useEffect' is defined but never used  no-unused-vars
+
+src/pages/Dashboard.js
+  Line 14:21:  'error' is assigned a value but never used  no-unused-vars
+
+src/pages/ItemAssignment.js
+  Line 23:27:  'error' is assigned a value but never used  no-unused-vars
+
+src/pages/ReceiptUpload.js
+  Line 33:15:  'data' is assigned a value but never used  no-unused-vars
+
+ERROR in ./src/App.js 6:0-84
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 14:0-38
+Module not found: Error: Can't resolve './pages/History' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 15:0-52
+Module not found: Error: Can't resolve './pages/ReceiptDetails' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/components/Sidebar.js 6:0-56
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/components'
+
+ERROR in ./src/pages/Dashboard.js 7:0-47
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/pages'
+
+ERROR in ./src/pages/ItemAssignment.js 6:0-58
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/pages'
+
+ERROR in ./src/pages/Login.js 6:0-53
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/pages'
+
+ERROR in ./src/pages/ReceiptUpload.js 8:0-47
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/pages'
+
+ERROR in ./src/pages/Register.js 6:0-53
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/pages'
+
+ERROR in ./src/services/supabase.js 3:0-53
+Module not found: Error: Can't resolve '@supabase/supabase-js' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/services'
+
+webpack compiled with 10 errors and 1 warning
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+WARNING in [eslint] 
+src/App.js
+  Line 1:17:  'useEffect' is defined but never used  no-unused-vars
+
+src/pages/Dashboard.js
+  Line 14:21:  'error' is assigned a value but never used  no-unused-vars
+
+src/pages/ItemAssignment.js
+  Line 23:27:  'error' is assigned a value but never used  no-unused-vars
+
+src/pages/ReceiptUpload.js
+  Line 33:15:  'data' is assigned a value but never used  no-unused-vars
+
+ERROR in ./src/App.js 6:0-84
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/App.js 14:0-38
+Module not found: Error: Can't resolve './pages/History' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/components/Sidebar.js 6:0-56
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/components'
+
+ERROR in ./src/pages/Dashboard.js 7:0-47
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/pages'
+
+ERROR in ./src/pages/ItemAssignment.js 6:0-58
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/pages'
+
+ERROR in ./src/pages/Login.js 6:0-53
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/pages'
+
+ERROR in ./src/pages/ReceiptDetails.js 6:0-45
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/pages'
+
+ERROR in ./src/pages/ReceiptUpload.js 8:0-47
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/pages'
+
+ERROR in ./src/pages/Register.js 6:0-53
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/pages'
+
+ERROR in ./src/services/supabase.js 3:0-53
+Module not found: Error: Can't resolve '@supabase/supabase-js' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/services'
+
+webpack compiled with 10 errors and 1 warning
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+WARNING in [eslint] 
+src/App.js
+  Line 1:17:  'useEffect' is defined but never used  no-unused-vars
+
+src/pages/Dashboard.js
+  Line 14:21:  'error' is assigned a value but never used  no-unused-vars
+
+src/pages/History.js
+  Line 17:21:  'error' is assigned a value but never used  no-unused-vars
+
+src/pages/ItemAssignment.js
+  Line 23:27:  'error' is assigned a value but never used  no-unused-vars
+
+src/pages/ReceiptUpload.js
+  Line 33:15:  'data' is assigned a value but never used  no-unused-vars
+
+ERROR in ./src/App.js 6:0-84
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/components/Sidebar.js 6:0-56
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/components'
+
+ERROR in ./src/pages/Dashboard.js 7:0-47
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/pages'
+
+ERROR in ./src/pages/History.js 7:0-47
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/pages'
+
+ERROR in ./src/pages/ItemAssignment.js 6:0-58
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/pages'
+
+ERROR in ./src/pages/Login.js 6:0-53
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/pages'
+
+ERROR in ./src/pages/ReceiptDetails.js 6:0-45
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/pages'
+
+ERROR in ./src/pages/ReceiptUpload.js 8:0-47
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/pages'
+
+ERROR in ./src/pages/Register.js 6:0-53
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/pages'
+
+ERROR in ./src/services/supabase.js 3:0-53
+Module not found: Error: Can't resolve '@supabase/supabase-js' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/services'
+
+webpack compiled with 10 errors and 1 warning
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+LOG from webpack.FileSystemInfo
+<w> Managed item /home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/node_modules/react-router-dom isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
++ 13 hidden lines
+
+WARNING in [eslint] 
+src/App.js
+  Line 1:17:  'useEffect' is defined but never used  no-unused-vars
+
+src/pages/Dashboard.js
+  Line 14:21:  'error' is assigned a value but never used  no-unused-vars
+
+src/pages/History.js
+  Line 17:21:  'error' is assigned a value but never used  no-unused-vars
+
+src/pages/ItemAssignment.js
+  Line 23:27:  'error' is assigned a value but never used  no-unused-vars
+
+src/pages/ReceiptUpload.js
+  Line 33:15:  'data' is assigned a value but never used  no-unused-vars
+
+ERROR in ./src/App.js 6:0-84
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src'
+
+ERROR in ./src/components/Sidebar.js 6:0-56
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/components'
+
+ERROR in ./src/pages/Dashboard.js 7:0-47
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/pages'
+
+ERROR in ./src/pages/History.js 7:0-47
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/pages'
+
+ERROR in ./src/pages/ItemAssignment.js 6:0-58
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/pages'
+
+ERROR in ./src/pages/Login.js 6:0-53
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/pages'
+
+ERROR in ./src/pages/ReceiptDetails.js 6:0-45
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/pages'
+
+ERROR in ./src/pages/ReceiptUpload.js 8:0-47
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/pages'
+
+ERROR in ./src/pages/Register.js 6:0-53
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/pages'
+
+ERROR in ./src/services/supabase.js 3:0-53
+Module not found: Error: Can't resolve '@supabase/supabase-js' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/services'
+
+webpack compiled with 10 errors and 1 warning
+Compiling...
+Failed to compile.
+
+Attempted import error: 'BrowserRouter' is not exported from 'react-router-dom' (imported as 'Router').
+LOG from webpack.FileSystemInfo
+<w> Managed item /home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/node_modules/react-router isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
++ 13 hidden lines
+
+WARNING in [eslint] 
+src/App.js
+  Line 1:17:  'useEffect' is defined but never used  no-unused-vars
+
+src/pages/Dashboard.js
+  Line 14:21:  'error' is assigned a value but never used  no-unused-vars
+
+src/pages/History.js
+  Line 17:21:  'error' is assigned a value but never used  no-unused-vars
+
+src/pages/ItemAssignment.js
+  Line 23:27:  'error' is assigned a value but never used  no-unused-vars
+
+src/pages/ReceiptUpload.js
+  Line 33:15:  'data' is assigned a value but never used  no-unused-vars
+
+ERROR in ./src/App.js 28:35-41
+export 'BrowserRouter' (imported as 'Router') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 74:39-45
+export 'Routes' (imported as 'Routes') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 75:42-47
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 86:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 97:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 99:42-50
+export 'Navigate' (imported as 'Navigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 147:39-45
+export 'Routes' (imported as 'Routes') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 148:42-47
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 159:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 170:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 181:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 192:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 203:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 214:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 225:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 227:42-50
+export 'Navigate' (imported as 'Navigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/Sidebar.js 31:19-30
+export 'useLocation' (imported as 'useLocation') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/Sidebar.js 48:60-67
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/Sidebar.js 80:10-21
+export 'useLocation' (imported as 'useLocation') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/Dashboard.js 14:19-30
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/Dashboard.js 198:10-21
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/History.js 18:19-30
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/History.js 187:10-21
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/ItemAssignment.js 19:6-15
+export 'useParams' (imported as 'useParams') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/ItemAssignment.js 20:19-30
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/ItemAssignment.js 279:10-19
+export 'useParams' (imported as 'useParams') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/ItemAssignment.js 279:21-32
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/Login.js 24:19-30
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/Login.js 151:65-69
+export 'Link' (imported as 'Link') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/Login.js 172:19-30
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/ReceiptDetails.js 19:6-15
+export 'useParams' (imported as 'useParams') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/ReceiptDetails.js 278:10-19
+export 'useParams' (imported as 'useParams') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/ReceiptUpload.js 20:19-30
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/ReceiptUpload.js 107:10-21
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/Register.js 23:19-30
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/Register.js 118:67-71
+export 'Link' (imported as 'Link') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/Register.js 139:19-30
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/services/supabase.js 3:0-53
+Module not found: Error: Can't resolve '@supabase/supabase-js' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/services'
+
+ERROR in ./node_modules/react-router-dom/dist/index.mjs 13:0-66
+Module not found: Error: Can't resolve 'react-router/dom' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/node_modules/react-router-dom/dist'
+
+ERROR in ./node_modules/react-router-dom/dist/index.mjs 14:0-29
+Module not found: Error: Can't resolve 'react-router' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/node_modules/react-router-dom/dist'
+
+webpack compiled with 40 errors and 1 warning
+Compiling...
+Failed to compile.
+
+Attempted import error: 'BrowserRouter' is not exported from 'react-router-dom' (imported as 'Router').
+WARNING in [eslint] 
+src/App.js
+  Line 1:17:  'useEffect' is defined but never used  no-unused-vars
+
+src/pages/Dashboard.js
+  Line 14:21:  'error' is assigned a value but never used  no-unused-vars
+
+src/pages/History.js
+  Line 17:21:  'error' is assigned a value but never used  no-unused-vars
+
+src/pages/ItemAssignment.js
+  Line 23:27:  'error' is assigned a value but never used  no-unused-vars
+
+src/pages/ReceiptUpload.js
+  Line 33:15:  'data' is assigned a value but never used  no-unused-vars
+
+ERROR in ./src/App.js 28:35-41
+export 'BrowserRouter' (imported as 'Router') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 74:39-45
+export 'Routes' (imported as 'Routes') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 75:42-47
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 86:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 97:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 99:42-50
+export 'Navigate' (imported as 'Navigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 147:39-45
+export 'Routes' (imported as 'Routes') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 148:42-47
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 159:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 170:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 181:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 192:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 203:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 214:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 225:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 227:42-50
+export 'Navigate' (imported as 'Navigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/Sidebar.js 31:19-30
+export 'useLocation' (imported as 'useLocation') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/Sidebar.js 48:60-67
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/Sidebar.js 80:10-21
+export 'useLocation' (imported as 'useLocation') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/Dashboard.js 14:19-30
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/Dashboard.js 198:10-21
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/History.js 18:19-30
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/History.js 187:10-21
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/ItemAssignment.js 19:6-15
+export 'useParams' (imported as 'useParams') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/ItemAssignment.js 20:19-30
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/ItemAssignment.js 279:10-19
+export 'useParams' (imported as 'useParams') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/ItemAssignment.js 279:21-32
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/Login.js 24:19-30
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/Login.js 151:65-69
+export 'Link' (imported as 'Link') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/Login.js 172:19-30
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/ReceiptDetails.js 19:6-15
+export 'useParams' (imported as 'useParams') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/ReceiptDetails.js 278:10-19
+export 'useParams' (imported as 'useParams') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/ReceiptUpload.js 20:19-30
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/ReceiptUpload.js 107:10-21
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/Register.js 23:19-30
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/Register.js 118:67-71
+export 'Link' (imported as 'Link') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/Register.js 139:19-30
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/services/supabase.js 3:0-53
+Module not found: Error: Can't resolve '@supabase/supabase-js' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/services'
+
+webpack compiled with 38 errors and 1 warning
+Compiling...
+Failed to compile.
+
+Attempted import error: 'BrowserRouter' is not exported from 'react-router-dom' (imported as 'Router').
+WARNING in [eslint] 
+src/App.js
+  Line 1:17:  'useEffect' is defined but never used  no-unused-vars
+
+src/pages/Dashboard.js
+  Line 14:21:  'error' is assigned a value but never used  no-unused-vars
+
+src/pages/History.js
+  Line 17:21:  'error' is assigned a value but never used  no-unused-vars
+
+src/pages/ItemAssignment.js
+  Line 23:27:  'error' is assigned a value but never used  no-unused-vars
+
+src/pages/ReceiptUpload.js
+  Line 33:15:  'data' is assigned a value but never used  no-unused-vars
+
+ERROR in ./src/App.js 28:35-41
+export 'BrowserRouter' (imported as 'Router') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 74:39-45
+export 'Routes' (imported as 'Routes') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 75:42-47
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 86:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 97:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 99:42-50
+export 'Navigate' (imported as 'Navigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 147:39-45
+export 'Routes' (imported as 'Routes') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 148:42-47
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 159:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 170:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 181:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 192:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 203:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 214:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 225:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 227:42-50
+export 'Navigate' (imported as 'Navigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/Sidebar.js 31:19-30
+export 'useLocation' (imported as 'useLocation') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/Sidebar.js 48:60-67
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/Sidebar.js 80:10-21
+export 'useLocation' (imported as 'useLocation') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/Dashboard.js 14:19-30
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/Dashboard.js 198:10-21
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/History.js 18:19-30
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/History.js 187:10-21
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/ItemAssignment.js 19:6-15
+export 'useParams' (imported as 'useParams') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/ItemAssignment.js 20:19-30
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/ItemAssignment.js 279:10-19
+export 'useParams' (imported as 'useParams') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/ItemAssignment.js 279:21-32
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/Login.js 24:19-30
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/Login.js 151:65-69
+export 'Link' (imported as 'Link') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/Login.js 172:19-30
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/ReceiptDetails.js 19:6-15
+export 'useParams' (imported as 'useParams') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/ReceiptDetails.js 278:10-19
+export 'useParams' (imported as 'useParams') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/ReceiptUpload.js 20:19-30
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/ReceiptUpload.js 107:10-21
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/Register.js 23:19-30
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/Register.js 118:67-71
+export 'Link' (imported as 'Link') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/Register.js 139:19-30
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/services/supabase.js 3:0-53
+Module not found: Error: Can't resolve '@supabase/supabase-js' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/services'
+
+webpack compiled with 38 errors and 1 warning
+Compiling...
+Failed to compile.
+
+Attempted import error: 'BrowserRouter' is not exported from 'react-router-dom' (imported as 'Router').
+LOG from webpack.FileSystemInfo
+<w> Managed item /home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/node_modules/@supabase/supabase-js isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
++ 13 hidden lines
+
+WARNING in [eslint] 
+src/App.js
+  Line 1:17:  'useEffect' is defined but never used  no-unused-vars
+
+src/pages/Dashboard.js
+  Line 14:21:  'error' is assigned a value but never used  no-unused-vars
+
+src/pages/History.js
+  Line 17:21:  'error' is assigned a value but never used  no-unused-vars
+
+src/pages/ItemAssignment.js
+  Line 23:27:  'error' is assigned a value but never used  no-unused-vars
+
+src/pages/ReceiptUpload.js
+  Line 33:15:  'data' is assigned a value but never used  no-unused-vars
+
+ERROR in ./src/App.js 28:35-41
+export 'BrowserRouter' (imported as 'Router') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 74:39-45
+export 'Routes' (imported as 'Routes') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 75:42-47
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 86:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 97:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 99:42-50
+export 'Navigate' (imported as 'Navigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 147:39-45
+export 'Routes' (imported as 'Routes') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 148:42-47
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 159:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 170:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 181:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 192:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 203:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 214:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 225:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 227:42-50
+export 'Navigate' (imported as 'Navigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/Sidebar.js 31:19-30
+export 'useLocation' (imported as 'useLocation') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/Sidebar.js 48:60-67
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/Sidebar.js 80:10-21
+export 'useLocation' (imported as 'useLocation') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/Dashboard.js 14:19-30
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/Dashboard.js 198:10-21
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/History.js 18:19-30
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/History.js 187:10-21
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/ItemAssignment.js 19:6-15
+export 'useParams' (imported as 'useParams') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/ItemAssignment.js 20:19-30
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/ItemAssignment.js 279:10-19
+export 'useParams' (imported as 'useParams') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/ItemAssignment.js 279:21-32
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/Login.js 24:19-30
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/Login.js 151:65-69
+export 'Link' (imported as 'Link') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/Login.js 172:19-30
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/ReceiptDetails.js 19:6-15
+export 'useParams' (imported as 'useParams') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/ReceiptDetails.js 278:10-19
+export 'useParams' (imported as 'useParams') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/ReceiptUpload.js 20:19-30
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/ReceiptUpload.js 107:10-21
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/Register.js 23:19-30
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/Register.js 118:67-71
+export 'Link' (imported as 'Link') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/Register.js 139:19-30
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/services/supabase.js 3:0-53
+Module not found: Error: Can't resolve '@supabase/supabase-js' in '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/src/services'
+
+webpack compiled with 38 errors and 1 warning
+Compiling...
+Failed to compile.
+
+Attempted import error: 'BrowserRouter' is not exported from 'react-router-dom' (imported as 'Router').
+WARNING in ./node_modules/@supabase/supabase-js/dist/module/SupabaseClient.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/node_modules/@supabase/supabase-js/src/SupabaseClient.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/node_modules/@supabase/supabase-js/src/SupabaseClient.ts'
+
+WARNING in ./node_modules/@supabase/supabase-js/dist/module/index.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/node_modules/@supabase/supabase-js/src/index.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/node_modules/@supabase/supabase-js/src/index.ts'
+
+WARNING in [eslint] 
+src/App.js
+  Line 1:17:  'useEffect' is defined but never used  no-unused-vars
+
+src/pages/Dashboard.js
+  Line 14:21:  'error' is assigned a value but never used  no-unused-vars
+
+src/pages/History.js
+  Line 17:21:  'error' is assigned a value but never used  no-unused-vars
+
+src/pages/ItemAssignment.js
+  Line 23:27:  'error' is assigned a value but never used  no-unused-vars
+
+src/pages/ReceiptUpload.js
+  Line 33:15:  'data' is assigned a value but never used  no-unused-vars
+
+ERROR in ./src/App.js 28:35-41
+export 'BrowserRouter' (imported as 'Router') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 74:39-45
+export 'Routes' (imported as 'Routes') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 75:42-47
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 86:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 97:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 99:42-50
+export 'Navigate' (imported as 'Navigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 147:39-45
+export 'Routes' (imported as 'Routes') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 148:42-47
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 159:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 170:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 181:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 192:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 203:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 214:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 225:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 227:42-50
+export 'Navigate' (imported as 'Navigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/Sidebar.js 31:19-30
+export 'useLocation' (imported as 'useLocation') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/Sidebar.js 48:60-67
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/Sidebar.js 80:10-21
+export 'useLocation' (imported as 'useLocation') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/Dashboard.js 14:19-30
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/Dashboard.js 198:10-21
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/History.js 18:19-30
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/History.js 187:10-21
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/ItemAssignment.js 19:6-15
+export 'useParams' (imported as 'useParams') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/ItemAssignment.js 20:19-30
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/ItemAssignment.js 279:10-19
+export 'useParams' (imported as 'useParams') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/ItemAssignment.js 279:21-32
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/Login.js 24:19-30
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/Login.js 151:65-69
+export 'Link' (imported as 'Link') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/Login.js 172:19-30
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/ReceiptDetails.js 19:6-15
+export 'useParams' (imported as 'useParams') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/ReceiptDetails.js 278:10-19
+export 'useParams' (imported as 'useParams') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/ReceiptUpload.js 20:19-30
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/ReceiptUpload.js 107:10-21
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/Register.js 23:19-30
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/Register.js 118:67-71
+export 'Link' (imported as 'Link') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/Register.js 139:19-30
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+webpack compiled with 37 errors and 3 warnings
+Compiling...
+Failed to compile.
+
+Attempted import error: 'BrowserRouter' is not exported from 'react-router-dom' (imported as 'Router').
+WARNING in ./node_modules/@supabase/supabase-js/dist/module/SupabaseClient.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/node_modules/@supabase/supabase-js/src/SupabaseClient.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/node_modules/@supabase/supabase-js/src/SupabaseClient.ts'
+
+WARNING in ./node_modules/@supabase/supabase-js/dist/module/index.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/node_modules/@supabase/supabase-js/src/index.ts' file: Error: ENOENT: no such file or directory, open '/home/kavia/workspace/code-generation/splitsnap-35748-be3d9dae/split_snap/node_modules/@supabase/supabase-js/src/index.ts'
+
+WARNING in [eslint] 
+src/App.js
+  Line 1:17:  'useEffect' is defined but never used  no-unused-vars
+
+src/pages/Dashboard.js
+  Line 14:21:  'error' is assigned a value but never used  no-unused-vars
+
+src/pages/History.js
+  Line 17:21:  'error' is assigned a value but never used  no-unused-vars
+
+src/pages/ItemAssignment.js
+  Line 23:27:  'error' is assigned a value but never used  no-unused-vars
+
+src/pages/ReceiptUpload.js
+  Line 33:15:  'data' is assigned a value but never used  no-unused-vars
+
+ERROR in ./src/App.js 28:35-41
+export 'BrowserRouter' (imported as 'Router') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 74:39-45
+export 'Routes' (imported as 'Routes') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 75:42-47
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 86:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 97:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 99:42-50
+export 'Navigate' (imported as 'Navigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 147:39-45
+export 'Routes' (imported as 'Routes') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 148:42-47
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 159:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 170:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 181:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 192:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 203:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 214:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 225:41-46
+export 'Route' (imported as 'Route') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/App.js 227:42-50
+export 'Navigate' (imported as 'Navigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/Sidebar.js 31:19-30
+export 'useLocation' (imported as 'useLocation') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/Sidebar.js 48:60-67
+export 'NavLink' (imported as 'NavLink') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/components/Sidebar.js 80:10-21
+export 'useLocation' (imported as 'useLocation') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/Dashboard.js 14:19-30
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/Dashboard.js 198:10-21
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/History.js 18:19-30
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/History.js 187:10-21
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/ItemAssignment.js 19:6-15
+export 'useParams' (imported as 'useParams') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/ItemAssignment.js 20:19-30
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/ItemAssignment.js 279:10-19
+export 'useParams' (imported as 'useParams') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/ItemAssignment.js 279:21-32
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/Login.js 24:19-30
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/Login.js 151:65-69
+export 'Link' (imported as 'Link') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/Login.js 172:19-30
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/ReceiptDetails.js 19:6-15
+export 'useParams' (imported as 'useParams') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/ReceiptDetails.js 278:10-19
+export 'useParams' (imported as 'useParams') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/ReceiptUpload.js 20:19-30
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/ReceiptUpload.js 107:10-21
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/Register.js 23:19-30
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/Register.js 118:67-71
+export 'Link' (imported as 'Link') was not found in 'react-router-dom' (module has no exports)
+
+ERROR in ./src/pages/Register.js 139:19-30
+export 'useNavigate' (imported as 'useNavigate') was not found in 'react-router-dom' (module has no exports)
+
+webpack compiled with 37 errors and 3 warnings
